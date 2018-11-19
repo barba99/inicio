@@ -27,9 +27,6 @@ T#T@;;;;;;=1|||||||||||0*1*********
 t#0+;;;;;;+@1*|||||\|@T1***********
 @|;;;;;;;;;#@@@@@*11***************
 EOF
-echo -e "\033[1;31m"
-figlet -f small JORGE BARBA
-echo -e "\033[0;36mEL CONOCIMIENTO ES LIBRE " | pv -qL 10
 
 
 
@@ -127,9 +124,9 @@ cat << "EOF"
 
      .         +   .  .  ...:: ..|  --.:|
 
-.      . . .   .  .  . ... :..:.."(  ..)"
+.      . . .   .  .  . ... :..:.."(  ..)
 
- .   .       .      :  .   .: ::/  .  .::\"
+ .   .       .      :  .   .: ::/  .  .::\
 
 EOF
 
@@ -170,5 +167,8 @@ cat << "EOF"
                  '._L/_H____]
 
 EOF                 
+echo -e "\033[1;31m"
+figlet -f small JORGE BARBA
+echo -e "\033[0;36mEL CONOCIMIENTO ES LIBRE " | pv -qL 10
 
                 
